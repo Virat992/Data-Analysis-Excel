@@ -9,7 +9,15 @@ that address vital management questions.
 
 
 ## Summery of Findigs
-![name-of-you-image](https://github.com/Virat992/Data-Analysis-Excel/blob/main/MyStore%20Data%20Analysis%20Dashboard.png))
+![name-of-you-image](https://github.com/Virat992/Data-Analysis-Excel/blob/main/MyStore%20Data%20Analysis%20Dashboard.png)
+
+Throughout this project, I conducted in-depth analysis to address three pivotal management questions:
+
+    Top 5 Sales States: My analysis identified the top five states responsible for the highest sales contribution to MyStore. These valuable insights provide a strategic foundation for targeted marketing campaigns and the allocation of resources.
+
+    Male vs. Female Buyer Distribution: By delving into the distribution of male and female buyers among MyStore's customers, I gained a profound understanding of the demographic landscape. This insight is a cornerstone for crafting personalized marketing strategies tailored to distinct customer segments.
+
+    Orders Distribution across Sales Channels: My exploration encompassed the comprehensive distribution of orders across various sales channels, including Amazon, Flipkart, Myntra, Meesho, and Ajio. This information serves as a navigational tool to fine-tune resource allocation and optimize each sales channel's performance.
 
 ## Dashboard and Visualization
 The culmination of this analysis is a dynamic dashboard that presents the insights through an array of interactive
