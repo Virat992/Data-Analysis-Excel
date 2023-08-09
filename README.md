@@ -8,7 +8,7 @@ Myntra, Meesho, Ajio, and more. As a dedicated data analyst, my mission was to e
 that address vital management questions.
 
 
-## Summery of Findigs
+## Summery of Findings
 ![name-of-you-image](https://github.com/Virat992/Data-Analysis-Excel/blob/main/MyStore%20Data%20Analysis%20Dashboard.png)
 
 Throughout this project, I conducted in-depth analysis to address three pivotal management questions:
