@@ -9,7 +9,7 @@ that address vital management questions.
 
 
 ## Summery of Findigs
-![name-of-you-image](https://github.com/Virat992/Data-Analysis-Excel/blob/main/MyStore Data Analysis Dashboard.png)
+![name-of-you-image](https://github.com/Virat992/Data-Analysis-Excel/blob/main/MyStore%20Data%20Analysis%20Dashboard.png))
 
 ## Dashboard and Visualization
 The culmination of this analysis is a dynamic dashboard that presents the insights through an array of interactive
