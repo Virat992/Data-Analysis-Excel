@@ -1,4 +1,4 @@
-# MyStore E-Commerce Sales Analysis using Microsoft Excel
+# E-Commerce Sales Data Analysis using Microsoft Excel
 ## by Virat Gajjar
 
 ## Overview
