@@ -3,7 +3,7 @@
 
 ## Overview
 This project revolves around the exploration and analysis of sales data from an online e-commerce store, MyStore.
-Specializing in clothing for females, MyStore operates across various e-commerce platforms, including Amazon, Flipkart,
+Specializing in clothing for males and females, MyStore operates across various e-commerce platforms, including Amazon, Flipkart,
 Myntra, Meesho, Ajio, and more. As a dedicated data analyst, my mission was to extract insightful exploratory insights
 that address vital management questions.
 
@@ -34,7 +34,7 @@ to create a comprehensive visual representation of the data.
 ## Dataset
 
 The dataset used for analysis comprises information related to 32,000 orders placed during a sale period on various
-e-commerce websites. The majority of these orders pertain to female clothing items. The dataset encompasses 19 features,
+e-commerce websites. The majority of these orders pertain to male and female clothing items. The dataset encompasses 19 features,
 including 'Index', 'Order_id', 'Customer_id', 'Gender', 'Age', 'Date', 'State', 'Channel', 'SKU', 'Product_category', 'Size',
 'Amount', 'Status', 'Quantity', 'Currency', and more.
 
